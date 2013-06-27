@@ -158,7 +158,7 @@ public class ControlAcceso extends javax.swing.JFrame {
 
     private void jbtCancelarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtCancelarActionPerformed
         // TODO add your handling code here:
-        this.setVisible(false);// error asdjibqgyqweruipwefhio
+        this.setVisible(false);
     }//GEN-LAST:event_jbtCancelarActionPerformed
 
     /**
